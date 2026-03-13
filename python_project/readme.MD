@@ -8,7 +8,7 @@
             - 주소
             - 매장타입(general, reserve, generalDT)
     - 저장 방식
-        - csv
+        - 이름.csv
     - 제출 정보
         - 기한 : 2026-03-16일 24시까지
         - 형식 : 이름.ipynb
@@ -17,4 +17,3 @@
 # 개요
     - 사용한 방식 : ETL level 4
         - 이유 : 동적 크롤링(클릭 등)이 필요하기 때문
-    - WebDriverWait 사용 : 대기시간 최적화
